@@ -54,7 +54,7 @@ I’m an undergraduate researcher building ML systems that are rigorous enough t
 
 ---
 
-## Featured work (skim-friendly)
+## Featured work
 
 - **Preprint: Inference-Time Loss-Guided Colour Preservation in Diffusion Sampling**  
   Training-free diffusion control using inference-time perceptual objectives and region stability mechanisms.  
