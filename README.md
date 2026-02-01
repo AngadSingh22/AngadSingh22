@@ -25,18 +25,6 @@ I’m an undergraduate researcher building ML systems that are rigorous enough t
 
 <div align="center">
 
-
-<br>
-
-<a href="https://github.com/AngadSingh22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngadSingh22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngadSingh22&layout=compact&theme=radical&langs_count=10"/>
-</a>
-
-<br>
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AngadSingh22&theme=radical)](https://git.io/streak-stats)
-
 <br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngadSingh22&theme=radical&hide_border=true&from=2025-12-25)](https://github.com/AngadSingh22)
