@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi, I'm Angad Singh Ahuja
+# Hi, I'm Angad Singh Ahuja, I am currently pursuing a Bachelor of Science in Computer Science & Mathematics at Ashoka University**  
 
-**B.Sc. Computer Science & Mathematics @ Ashoka University (2023–2028)**  
 Research: generative systems · robust ML · evaluation + deployment realism · applied AI
 
 Affiliations: Constrained Image-Synthesis Lab (Columbus, OH) · Science of Sadharan × Prakash Labs · KCDH-IITB (Mumbai) · Incoming @ RBCCPS, IISc (Bengaluru)
