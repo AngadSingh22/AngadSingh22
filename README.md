@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Angad Singh Ahuja, I am currently pursuing a Bachelor of Science in Computer Science & Mathematics at Ashoka University**  
+# Hi, I'm Angad Singh Ahuja
 
 Research: generative systems · robust ML · evaluation + deployment realism · applied AI
 
